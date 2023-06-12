@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/React-portfolio/static/css/main.a128a784.css",
-    "main.js": "/React-portfolio/static/js/main.2164dbab.js",
+    "main.js": "/React-portfolio/static/js/main.e16d6387.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/photo.png": "/React-portfolio/static/media/photo.6e9ae825637bbe51c88d.png",
+    "static/media/FOShomepage.png": "/React-portfolio/static/media/FOShomepage.f5a9e68e096dc14e79bd.png",
     "static/media/RhythmRoom.png": "/React-portfolio/static/media/RhythmRoom.18f36d40476bb6903bcf.png",
     "static/media/Auctionplaza.png": "/React-portfolio/static/media/Auctionplaza.2eaeeed88afc35d7df55.png",
-    "static/media/Dynamicscheduler.png": "/React-portfolio/static/media/Dynamicscheduler.1f3ff864d0dd9593d3dd.png",
     "index.html": "/React-portfolio/index.html",
     "main.a128a784.css.map": "/React-portfolio/static/css/main.a128a784.css.map",
-    "main.2164dbab.js.map": "/React-portfolio/static/js/main.2164dbab.js.map",
+    "main.e16d6387.js.map": "/React-portfolio/static/js/main.e16d6387.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a128a784.css",
-    "static/js/main.2164dbab.js"
+    "static/js/main.e16d6387.js"
   ]
 }
